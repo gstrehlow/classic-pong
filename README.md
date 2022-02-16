@@ -1,1 +1,1 @@
-# classic-pong
+# Pong
